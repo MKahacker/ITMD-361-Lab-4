@@ -10,3 +10,7 @@ a{
   text-decoration: none;
   color:#f9dbb5;
 }
+
+.content_wrapper{
+  margin: 0 auto;
+}
