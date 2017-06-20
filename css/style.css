@@ -75,3 +75,14 @@ th:first-child:hover, td:first-child:hover{
   display:inline-block;
 }
 
+#pic_1{
+  position: absolute;
+}
+
+#pic_2{
+  position: absolute;
+}
+
+#pic_3{
+  position: absolute;
+}
