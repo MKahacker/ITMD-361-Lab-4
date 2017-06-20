@@ -21,8 +21,11 @@ table{
 td, th{
   border: 2px solid #c44536;
   padding: 8px;
-  font-weight: normal;
   font-size: 20px;
+}
+
+th{
+  font-weight:bold;
 }
 
 tr{
@@ -37,7 +40,14 @@ th:first-child, td:first-child{
   font-weight: bold;
   font-size: 25px;
   color: 	#772e25;
+  background-color: #fff;
 }
+
+th:first-child:hover, td:first-child:hover{
+  background-color: #282845;
+  color: #fff;
+}
+
 .content_wrapper{
   width: 960px;
   margin: 0 auto;
