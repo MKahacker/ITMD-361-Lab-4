@@ -77,14 +77,19 @@ th:first-child:hover, td:first-child:hover{
 
 #pic_1{
   position: absolute;
+  top: 15;
+  right: 0;
 }
 
 #pic_2{
   position: absolute;
+  top: 15;
+  left:0;
 }
 
 #pic_3{
   position: absolute;
   width: 301px;
-  height: 168px; 
+  height: 168px;
+  bottom: 0;
 }
