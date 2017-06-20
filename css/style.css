@@ -2,10 +2,15 @@ body{
   background-color:#edddd4;
 }
 
+p{
+  font-family: 'Domine', serif;
+}
+
 h1 {
   margin: 15px 0;
   font-size: 35px;
-  color:#772e25; 
+  color:#772e25;
+  font-family: 'Domine', serif;
 }
 
 a{
