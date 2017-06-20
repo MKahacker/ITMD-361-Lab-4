@@ -34,8 +34,7 @@ tr{
 }
 
 tr:nth-child(even){
-  background-color:#000;
-  color: #fff;
+  background-color:	#aaaaaa	;
 }
 .content_wrapper{
   width: 960px;
