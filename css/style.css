@@ -21,12 +21,8 @@ table{
 td, th{
   border: 2px solid #c44536;
   padding: 8px;
-}
-
-th{
-  color:#283d3b;
+  font-weight: normal;
   font-size: 20px;
-  font-weight: bold;
 }
 
 tr{
@@ -34,7 +30,13 @@ tr{
 }
 
 tr:nth-child(even){
-  background-color:	#aaaaaa	;
+  background-color:	#d2d2d2;
+}
+
+th:first-child, td:first-child{
+  font-weight: bold;
+  font-size: 25px;
+  color: 	#772e25;
 }
 .content_wrapper{
   width: 960px;
