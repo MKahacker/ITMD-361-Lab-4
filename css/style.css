@@ -70,3 +70,8 @@ th:first-child:hover, td:first-child:hover{
   text-align: center;
 }
 
+.paragraph_wrapper{
+  width: 766px;
+  display:inline-block;
+}
+
