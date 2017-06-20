@@ -1,16 +1,26 @@
 body{
-  background-color:#85d7bc;
+  background-color:#edddd4;
 }
 
 h1 {
   margin: 15px 0;
   font-size: 35px;
-  color:#573a23; 
+  color:#772e25; 
 }
 
 a{
   text-decoration: none;
-  color:#f9dbb5;
+  color:#283d3b;
+}
+
+table{
+  display: inline-table;
+  margin: 25px;
+}
+
+td, th{
+  border: 2px solid #c44536;
+  padding: 8px;
 }
 
 .content_wrapper{
@@ -18,3 +28,4 @@ a{
   margin: 0 auto;
   text-align: center;
 }
+
