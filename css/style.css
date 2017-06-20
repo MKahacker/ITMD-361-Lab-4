@@ -32,6 +32,16 @@ tr{
   background-color:#fff;
 }
 
+sup{
+  font-size: 13px;
+}
+
+td:hover, th:hover{
+  font-size: 25px;
+  background-color: #282845;
+  color: #fff;  
+}
+
 tr:nth-child(even){
   background-color:	#d2d2d2;
 }
