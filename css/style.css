@@ -84,12 +84,14 @@ th:first-child:hover, td:first-child:hover{
   position: absolute;
   top: 200px;
   right: 10px;
+  z-index: -10;
 }
 
 #pic_2{
   position: absolute;
   top: 200px;
   left: 10px;
+  z-index: -10;
 }
 
 #pic_3{
@@ -97,4 +99,5 @@ th:first-child:hover, td:first-child:hover{
   width: 301px;
   height: 168px;
   bottom: 0;
+  z-index: -10;
 }
